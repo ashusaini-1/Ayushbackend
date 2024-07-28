@@ -1,0 +1,9 @@
+{
+  "web":{"client_id":"445726040500-c553770n2mg79lpt9skq2u6svkulm7gv.apps.googleusercontent.com",
+  "project_id":"testing-project-429506",
+  "auth_uri":"https://accounts.google.com/o/oauth2/auth",
+  "token_uri":"https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs",
+  "client_secret":"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",
+  "redirect_uris":["https://developers.google.com/oauthplayground"]}
+}
